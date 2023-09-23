@@ -1,7 +1,7 @@
 import requests
 
 # Replace with your Mapbox API key
-MAPBOX_API_KEY = 'pk.eyJ1IjoiY3lyaXhuaW5qYTY0IiwiYSI6ImNsbXAwc2I0NTE0MGYyc3IyaDV3bjJ4ZDYifQ.uGw7ZerBPUOu2R6TKGw0FA'
+MAPBOX_API_KEY = ''
 
 def geocode_location(location_name):
     endpoint = f'https://api.mapbox.com/geocoding/v5/mapbox.places/{location_name}.json'
