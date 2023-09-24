@@ -5,6 +5,11 @@ Sustainable Development Travel Companion
 <img src="https://raw.githubusercontent.com/cyrixninja/EcoTransit/main/screenshot/Desktop/1.png">
 <img src="https://raw.githubusercontent.com/cyrixninja/EcoTransit/main/screenshot/Desktop/6.png">
 
+## How to Run
+
+Learn How to Run the Project <a href=""> here</a>
+
+
 ## Inspiration💡
 
 In today's world, climate change is an undeniable reality, and it's our collective responsibility to take meaningful actions to combat it. One significant contributor to carbon emissions is the transportation sector, with vehicles emitting tons of CO2 into the atmosphere every day. But what if we could empower individuals and organizations to make greener transportation choices by providing them with a tool to calculate and reduce their carbon footprint? This is the inspiration for our hackathon project : "EcoTransit".
