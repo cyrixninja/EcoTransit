@@ -7,7 +7,7 @@ Sustainable Development Travel Companion
 
 ## How to Run
 
-Learn How to Run the Project <a href=""> here</a>
+Learn How to Run the Project <a href="https://github.com/cyrixninja/EcoTransit/blob/main/howtorun.md"> here</a>
 
 
 ## Inspiration💡
