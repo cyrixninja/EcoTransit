@@ -2,8 +2,8 @@
 
 Sustainable Development Travel Companion
 
-![img1]('https://github.com/cyrixninja/EcoTransit/blob/main/screenshot/Desktop/1.png?raw=true')
-![img2]('https://github.com/cyrixninja/EcoTransit/blob/main/screenshot/Desktop/6.png?raw=true')
+<img src="https://raw.githubusercontent.com/cyrixninja/EcoTransit/main/screenshot/Desktop/1.png">
+<img src="https://raw.githubusercontent.com/cyrixninja/EcoTransit/main/screenshot/Desktop/6.png">
 
 ## Inspiration💡
 
@@ -40,9 +40,9 @@ We are planning to add feature to help user store their emission data so they ca
 
 ## Project code
 
-[Website(Hosted on Replit)]('')  
-[Code]('https://github.com/cyrixninja/EcoTransit')
+<a href="https://github.com/cyrixninja/EcoTransit">Code</a>
 
 ## References
 
-[Article]('https://8billiontrees.com/carbon-offsets-credits/how-much-co2-does-a-car-emit-per-mile/#:~:text=CO2%20emissions%20can%20also,of%20CO2%20per%20km')
+<a href="https://8billiontrees.com/carbon-offsets-credits/how-much-co2-does-a-car-emit-per-mile/#:~:text=CO2%20emissions%20can%20also,of%20CO2%20per%20km">Article</a>
+
